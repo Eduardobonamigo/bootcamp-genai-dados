@@ -6,6 +6,8 @@ Bootcamp Dio e Bradesco - GenAI &amp; Dados
 
 [pdf](sources/)
 
+**Os resumos e glossário estão no estúdio do Notebooklm.**
+
 ## Objetivos de estudo
 - Entender o que são ações e como funcionam.
 - Compreender o papel da bolsa de valores (B3).
