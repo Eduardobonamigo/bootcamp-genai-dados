@@ -3,6 +3,7 @@ Bootcamp Dio e Bradesco - GenAI &amp; Dados
 
 ## Links do Projeto
 [Projeto Final](https://notebooklm.google.com/notebook/885aaf73-78d3-435c-ab73-36887c1f20cb)
+[pdf](sources/)
 
 ## Objetivos de estudo
 - Entender o que são ações e como funcionam.
